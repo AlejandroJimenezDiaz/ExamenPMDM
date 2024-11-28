@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenAlejandroJimenez</string>
+    <string name="bienbenido_titulo">BIENBENIDO</string>
+    <string name="emailHint">Email/UserName</string>
+    <string name="contrase_aHint">Contraseña</string>
+    <string name="log_inBoton">Log In</string>
+    <string name="bienvenidoTituloResultado">Bienvenido</string>
+    <string name="correoDatoResultado">Correo:</string>
+    <string name="continuarBtn">Continuar</string>
+</resources>
